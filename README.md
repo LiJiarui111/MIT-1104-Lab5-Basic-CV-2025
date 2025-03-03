@@ -147,14 +147,14 @@ This script visualizes the effects of calibration:
 6. **Keep the camera settings constant** (no autofocus, no auto-exposure)
 7. **The checkerboard should fill a significant portion** of the image
 
-## Extending the Lab
+<!-- ## Extending the Lab
 
 After completing the basic calibration, you can try:
 
 1. Comparing calibration results from different smartphones
 2. Measuring real-world objects using your calibrated camera
 3. Creating a simple augmented reality application
-4. Implementing stereo vision if you have two cameras
+4. Implementing stereo vision if you have two cameras -->
 
 ## References
 
