@@ -1,5 +1,4 @@
-# MIT 1.104 Lab 5 Part B
-# Basic Computer Vision & Camera Calibration
+# MIT 1.104 Lab 5 Part B: Basic Computer Vision & Camera Calibration
 
 This repository contains the necessary code and instructions for the Camera Calibration Lab. This lab will help you understand the pinhole camera model and perform camera calibration using your smartphone.
 
