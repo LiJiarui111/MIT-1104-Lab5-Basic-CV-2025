@@ -147,7 +147,9 @@ def plot_camera_checkerboard(rvec, tvec, camera_matrix, object_points):
     # Add a small flat grid at z=0 to represent the checkerboard plane
     min_x, max_x = np.min(object_points[:, 0]), np.max(object_points[:, 0])
     min_y, max_y = np.min(object_points[:, 1]), np.max(object_points[:, 1])
+    
     pad = 0.08  # Some padding around the checkerboard
+    
     xx, yy = np.meshgrid(np.linspace(min_x-pad, max_x+pad, 10),
                          np.linspace(min_y-pad, max_y+pad, 10))
     zz = np.zeros_like(xx)
