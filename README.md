@@ -49,7 +49,6 @@ pip install -r requirements.txt
 camera_calibration_lab/
 ├── camera_calibration.py          # Main calibration script
 ├── visualize_calibration.py       # Visualization script
-├── checkerboard_pattern.pdf       # Printable checkerboard pattern
 ├── README.md                      # This file
 └── requirements.txt               # Python dependencies
 ```
